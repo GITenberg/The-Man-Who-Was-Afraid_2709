@@ -1,0 +1,36 @@
+_repo: The-Man-Who-Was-Afraid_2709
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Bernstein, Herman
+    birthdate: 1876
+    deathdate: 1935
+    gutenberg_agent_id: '1006'
+    url: http://www.gutenberg.org/2009/agents/1006
+creator:
+  author:
+    agent_name: Gorky, Maksim
+    aliases:
+    - Горький, Максим
+    - Gorky, Maxim
+    - Peshkov, Alexey Maximiovich
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '348'
+    url: http://www.gutenberg.org/2009/agents/348
+    wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
+description: Translation of Foma Gordeev.
+gutenberg_issued: '2001-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2709'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russia -- Fiction'
+- GITenberg
+title: The Man Who Was Afraid
+url: http://www.gutenberg.org/ebooks/2709
